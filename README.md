@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Getting Hands-on Earth Data Banner.png" width="100%">
+  <img src="Getting%20Hands-on%20Earth%20Data%20Banner.png" alt="Getting Hands-on Earth Data Banner" width="100%">
 </p>
 
 # 🌍 Getting Hands-on Earth Data
